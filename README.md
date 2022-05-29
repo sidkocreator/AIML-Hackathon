@@ -7,8 +7,8 @@ HEART DISEASE DETECTION USING DECISION TREE CLASSIFIER
 
 STEPS TO FOLLOW:
 
-1) download the ipynb file
+1) download the ipynb file.
 
-2) download both the datasets in the same folder as the ipynb file
+2) download both the datasets(heart.csv and heart1.csv) in the same folder as the ipynb file.
 
 3) run the ipynb file from the top to bottom.
